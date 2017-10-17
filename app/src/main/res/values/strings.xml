@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyWonderful</string>
+    <string name="Descripcion_def">QUESERÍA de mí sin ti..</string>
+
+    <string name="Descripcion_a"> Si el Plan A -no funciona-, el abecedario tiene 26 Letras mas!</string>
+    <string name="Descripcion_b">Alegrate por alguien tu también!</string>
+
+    <string name="Descripcion_g">Ve por ello!</string>
+
+
+    <string name="Descripcion_o">Todo!</string>
+    <string name="Descripcion_q">¡Vamos a querernos UN HUEVO!</string>
+    <string name="Descripcion_r">Haz que suceda!</string>
+
+    <string name="Descripcion_u">Enjoy!</string>
+
+    <string name="Descripcion_x">ON FIRE!!</string>
+    <string name="Descripcion_y">Colada por ti.. ♥</string>
+    <string name="Descripcion_z">Los mejores planes, no se planean.</string>
+
+
+
+
+
+</resources>
